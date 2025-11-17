@@ -69,5 +69,3 @@ Recommendation: assess whether continued investment in this market is worthwhile
 - Power Query  
 - Data Modeling (Star Schema)  
 - Excel data sources  
-
----
