@@ -14,7 +14,7 @@ It includes data cleaning (Power Query), data modeling, and interactive dashboar
 ---
 
 ## Project Files
-- Power BI project.pbix – Full Power BI report including queries, data model, and dashboards  
+- Power BI project.pbix – Full Power BI report including data model, and dashboards  
 - README.md – Project documentation  
 
 ---
@@ -68,9 +68,6 @@ Recommendation: assess whether continued investment in this market is worthwhile
 - Power BI Desktop  
 - Power Query  
 - Data Modeling (Star Schema)  
-- Excel and CSV data sources  
+- Excel data sources  
 
 ---
-
-## About
-Analysis of candy company sales data to identify best-selling products, their profitability, and high- or low-performing cities, with the goal of improving business decision-making.
